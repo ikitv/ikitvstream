@@ -4887,6 +4887,18 @@ http://globalstreamz.xyz:3050/Smblackwel46/8646267297/610578
 #############################
 #############################             
 
+##############DIGISPORT#############
+
+#EXTINF:-1 group-title="DIGISPORTS 🇷🇴" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/svrprs1436105433.png" ,  [ iKiTV ] DIGISPORT 1
+https://raw.githubusercontent.com/jwz4rt/ikitv/main/digisport001.m3u8
+#EXTINF:-1 group-title="DIGISPORTS 🇷🇴" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vqqrrq1436105445.png" ,  [ iKiTV ] DIGISPORT 2
+https://raw.githubusercontent.com/jwz4rt/ikitv/main/digisport002.m3u8
+#EXTINF:-1 group-title="DIGISPORTS 🇷🇴" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/utuqys1454953276.png" ,  [ iKiTV ] DIGISPORT 3
+https://raw.githubusercontent.com/jwz4rt/ikitv/main/digisport003.m3u8
+#EXTINF:-1 group-title="DIGISPORTS 🇷🇴" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f7/Digi_Sport_4_%282015-.n.v.%29.png" , [ iKiTV ] DIGISPORT 4
+https://raw.githubusercontent.com/jwz4rt/ikitv/main/digisport004.m3u8
+
+
 
 ##########ZIGGO
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ziggo.svg/1280px-Ziggo.svg.png" group-title="ZIGGO SPORTS 🇳🇱", [ iKiTV ] - SELECT HD

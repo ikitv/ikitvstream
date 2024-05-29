@@ -289,7 +289,8 @@ https://raw.githubusercontent.com/ikitv/ikimunutv/main/mnctv.m3u8
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/rcti.png" group-title="TV INDO" ,  RCTI
-http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRGuWXDs2_1WdHQqUZZ5fr6Q
+http://iptvtree.net:8080/everton/7def2e7e/157591
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/rtv.png" group-title="TV INDO" ,  RTV
 http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzREm_7etZ74a-nv5rOIiuAuk

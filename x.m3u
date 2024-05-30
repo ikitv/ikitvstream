@@ -25,7 +25,8 @@ http://iptvtree.net:8080/everton/7def2e7e/3473
 
 #EXTINF:-1 group-title="🟢 LIVE" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/nra0ma1715927778.jpg/preview" , 30 MEI 2024 05:00 WIB | VNL WOMANS: PERANCIS vs JEPANG • [ iKiTV ]
 http://iptvtree.net:8080/everton/7def2e7e/3473
-
+#EXTINF:-1 group-title="🟢 LIVE" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/dawizm1707292405.jpg/preview" , 30 MEI 2024 18:00 WIB | VNL WOMANS: BRAZIL vs BELANDA • [ iKiTV ] #2
+https://raw.githubusercontent.com/ikitv/-eu/main/HR-maxsport01.m3u8
 #EXTINF:-1 group-title="🟢 LIVE" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/dawizm1707292405.jpg/preview" , 30 MEI 2024 18:00 WIB | VNL WOMANS: BRAZIL vs BELANDA • [ iKiTV ]
 https://raw.githubusercontent.com/ikitv/-eu/main/HR-sportklub01.m3u8
 
